@@ -1,0 +1,5 @@
+1|Ali Ahmed|ali@student.edu|0312-1111111|229478422773618|member|2026-06-16|Student|1|0.00
+2|Sana Malik|sana@student.edu|0312-2222222|229478422773618|member|2026-06-16|Student|0|0.00
+3|Umar Sheikh|umar@faculty.edu|0321-3333333|229478422773618|member|2026-06-16|Premium|0|0.00
+4|Fatima Khan|fatima@gmail.com|0333-4444444|229478422773618|member|2026-06-16|Standard|0|0.00
+5|Bilal Qureshi|bilal@student.edu|0345-5555555|229478422773618|member|2026-06-16|Student|0|0.00

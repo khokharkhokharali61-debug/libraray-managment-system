@@ -1,0 +1,15 @@
+1|978-0-13-468599|C++ Primer|Stanley Lippman|Addison-Wesley|Programming|5th|2012|4|3|A1-01
+2|978-0-13-110362|The C Programming Language|Kernighan & Ritchie|Prentice Hall|Programming|2nd|1988|3|3|A1-02
+3|978-0-20-161622|Design Patterns|Gang of Four|Addison-Wesley|Programming|1st|1994|2|2|A1-03
+4|978-0-13-235088|Clean Code|Robert C. Martin|Prentice Hall|Programming|1st|2008|5|5|A1-04
+5|978-0-59-651798|Introduction to Algorithms|Cormen et al.|MIT Press|CS Theory|3rd|2009|3|3|B2-01
+6|978-1-59-327584|The Linux Command Line|William Shotts|No Starch Press|Systems|2nd|2019|4|4|B2-02
+7|978-0-38-597650|Artificial Intelligence|Russell & Norvig|Pearson|AI|4th|2020|3|3|C3-01
+8|978-0-59-651949|Python Crash Course|Eric Matthes|No Starch Press|Programming|3rd|2022|6|6|A1-05
+9|978-0-13-607755|Operating System Concepts|Silberschatz et al.|Wiley|Systems|10th|2018|4|4|B2-03
+10|978-0-13-103805|Database System Concepts|Silberschatz et al.|McGraw-Hill|Databases|7th|2019|4|4|C3-02
+11|978-0-13-235086|Computer Networks|Andrew Tanenbaum|Prentice Hall|Networks|5th|2010|3|3|D4-01
+12|978-0-06-112008|To Kill a Mockingbird|Harper Lee|Harper Perennial|Literature|1st|1960|5|5|E5-01
+13|978-0-74-327356|1984|George Orwell|Signet Classic|Literature|1st|1949|4|4|E5-02
+14|978-0-06-093546|The Great Gatsby|F. Scott Fitzgerald|Scribner|Literature|1st|1925|3|3|E5-03
+15|978-0-14-028329|Calculus|James Stewart|Cengage|Mathematics|8th|2015|5|5|F6-01
